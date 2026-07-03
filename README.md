@@ -21,7 +21,7 @@ I am a Fresh Graduate in **Information Technology** from **Universitas Brawijaya
 Like navigating the floors of Tartarus, I look at complex monolithic or microservice environments as puzzles that demand analytical precision, structured optimization, and deep tactical debugging.
 
 *   🔮 **Current Focus:** Crafting high-performance server-side systems & API orchestration.
-*   ⚔️ **Specialization:** Backend Engineering (Node.js/Go/PHP), Database Normalization, & Structural Code Optimization.
+*   ⚔️ **Specialization:** Backend Engineering (Node.js/PHP), Database Normalization, & Structural Code Optimization.
 *   🧠 **Expertise:** Designing secure data flows, handling complex relational schemas, and refactoring performance bottlenecks.
 *   🌐 **Interests:** High-performance frameworks, microservices architecture, system security, and automation tools.
 *   🎧 **Philosophy:** Code is like a Persona; it requires discipline, training, and the right awakening to unleash its true potential.
