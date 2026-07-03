@@ -53,6 +53,15 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 ## 🧠 Advanced Backend & Architecture Expertise
 
+<div align="center">
+
+<!-- Added Persona 3 Battle Cut-in GIF -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00eGg5Z3N5ZndwZ3Z3Z3Nnd3p4Zm95M3B0ZnR5N3pka3R5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KaqFd7Nag5FYSS1nKK/giphy.gif" width="55%" alt="Persona 3 Attack Animation" />
+
+</div>
+
+<br/>
+
 ### 🛡️ RESTful API Engineering
 *   **Architectural Precision:** Designing highly scalable endpoints following strict enterprise standards and REST conventions.
 *   **Payload Security:** Implementing robust validation layers, rate-limiting, and state-of-the-art token authorization (JWT).
@@ -110,19 +119,26 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=40&section=header" width="100%" />
 
+</div>
+
+---
+
+</div>
+
+---
+
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-<!-- Aigis Pixel Art GIF Footer -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcTRuNWpsNXMzNDM0eWRzMGpxMHJtd2kzdHlyM2d5ODcyNGtxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Xg01A848lE45C1uO01/giphy.gif" width="120px" alt="Aigis SEES" />
+<!-- Cinematic Persona 3 Velvet Room End GIF -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndlNTFlYmV3anUwdGFwaHhobHpsN3B3dzlkbG1uM3J1OWh2NTR5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pev5Eba6q8rm5hPufT/giphy.gif" width="60%" alt="Persona 3 Velvet Room Animation" />
 
-<br/><br/>
-
-<!-- Second typing line, footer style closing quote -->
+<!-- Velvet Room Mantra Quote (Right below the GIF) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1500&color=8892B0&center=true&vCenter=true&width=550&lines=I+am+thou%2C+thou+art+I...;See+you+next+full+moon." alt="Closing Typing SVG" />
 
-<br/><br/>
+<br/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-fikri-hidayatullah-380197250/) [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fikuri.olnyv/) [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00f0ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-p3r-fikuri.vercel.app/)
 
