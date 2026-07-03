@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🎭 Achmad Fikri Hidayatullah
-### 🗡️ Specialized Backend Developer | Navigating the Digital Tartarus
+# Achmad Fikri Hidayatullah
+### Specialized Backend Developer | Navigating the Digital Tartarus
 
 ---
 
