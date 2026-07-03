@@ -88,15 +88,10 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 *   **System Overview:** Structured a modular corporate platform featuring robust administrative controls and landing optimization.
 *   **Technical Implementations:** Programmed comprehensive dashboard API endpoints for advanced CMS integration, performed clean UI component slicing, and stabilized server-side response handling for structural performance.
 
-### 📐 03. Ruang Kreasi
-*   **Role & Core Stack:** Database Architect & Core Backend | TypeScript, PostgreSQL
-*   **System Overview:** Developed a dedicated portfolio network architecture allowing architects and technical mandors to exhibit complex layout designs.
-*   **Technical Implementations:** Spearheaded the relational entity blueprints, optimized query data lookups, and built secure model routers to handle rich media rendering pipelines natively.
-
-### 🧪 04. RSSA Project
-*   **Role & Core Stack:** System Research Developer | Golang Architecture
-*   **System Overview:** Deep-dive implementation modeling built on high-throughput server architecture paradigms.
-*   **Technical Implementations:** Analyzed asynchronous system flow routines, tracing channel-based communication data models, and refactoring performance handling within a strict Golang framework.
+### 🏘️ 03. Admin RT (Residents Management System)
+*   **Role & Core Stack:** Database Architect & Core Backend | PHP, MySQL
+*   **System Overview:** Developed a web-based neighborhood administration platform designed to streamline citizen data management, track monthly community dues (iuran), and automate official letter requests for local residents.
+*   **Technical Implementations:** Designed an optimized relational database schema to securely map citizen demographics, engineered core server-side modules for efficient data filtering (CRUD operations), and implemented secure administrative authentication layers.
 
 ---
 
