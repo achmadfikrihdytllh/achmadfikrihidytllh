@@ -6,15 +6,12 @@
 ---
 
 <!-- Animated Persona 3 Summoning GIF Header -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00eGg5Z3N5ZndwZ3Z3Z3Nnd3p4Zm95M3B0ZnR5N3pka3R5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7mS8vnoELeYpJDgXG/giphy.gif" width="60%" alt="Makoto Yuki Persona Summon" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc2cnFqODlxOXMyMzF3NDEyYno2bXV2dDIxczdqemNid2ViMDhiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jp8JMljuCWfFUGpp0D/giphy.gif" width="60%" alt="Makoto Yuki Persona Summon" />
 
 <!-- Typing animation: rotating Persona 3 quotes -->
 <a href="https://github.com/achmadfikrihdytllh">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&lines=Time+never+waits...;It+delivers+all+equally+to+the+same+end.;Memento+Mori.;Welcome+to+the+Velvet+Room.;Its+time+to+face+your+shadow." alt="Typing SVG" />
 </a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=120&section=header&text=The%20Dark%20Hour%20Approaches&fontSize=35&animation=fadeIn&fontColor=00f0ff" width="100%" />
-
 </div>
 
 ## 🌌 About Me
@@ -37,7 +34,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 ### 📊 Detailed GitHub Analytics
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=achmadfikrihdytllh&show_icons=true&theme=tokyonight&color_title=00f0ff&icon_color=00f0ff&hide_border=true&title_color=00f0ff&bg_color=0a192f" alt="Fikri's GitHub Stats" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achmadfikrihdytllh&theme=tokyonight" alt="Fikri's GitHub Profile Details" width="80%" />
 
 <br/><br/>
 
@@ -74,7 +71,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Development
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white).
 
 ### 🗄️ Database & Cloud Platform
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f0ff.svg?style=for-the-badge&logo=mysql&logoColor=white)
