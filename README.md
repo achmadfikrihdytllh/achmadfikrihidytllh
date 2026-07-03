@@ -114,6 +114,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 *   🚀 **MagangHub Backend Developer Intern Batch 1** - Orchestrated application flow logic, database integrations, and code deployment protocols.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=40&section=header" width="100%" />
+
 ## 📁 Tartarus Exploration Logs: Featured Projects
 
 ### 🌐 01. Profile+ (HRIS Attendance System Backend)
