@@ -8,7 +8,10 @@
 <!-- Animated Persona 3 Summoning GIF Header -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00eGg5Z3N5ZndwZ3Z3Z3Nnd3p4Zm95M3B0ZnR5N3pka3R5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7mS8vnoELeYpJDgXG/giphy.gif" width="60%" alt="Makoto Yuki Persona Summon" />
 
-> *"Time never waits. It delivers all equally to the same end."* — **Memento Mori.**
+<!-- Typing animation: rotating Persona 3 quotes -->
+<a href="https://github.com/achmadfikrihdytllh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&lines=Time+never+waits...;It+delivers+all+equally+to+the+same+end.;Memento+Mori.;Welcome+to+the+Velvet+Room.;Its+time+to+face+your+shadow." alt="Typing SVG" />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=120&section=header&text=The%20Dark%20Hour%20Approaches&fontSize=35&animation=fadeIn&fontColor=00f0ff" width="100%" />
 
@@ -26,7 +29,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 *   🌐 **Interests:** High-performance frameworks, microservices architecture, system security, and automation tools.
 *   🎧 **Philosophy:** Code is like a Persona; it requires discipline, training, and the right awakening to unleash its true potential.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=40&section=header" width="100%" />
 
 ## ⚡ Velvet Room Analytics: Profile Statistics
 
@@ -42,9 +45,14 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=achmadfikrihdytllh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00f0ff" alt="Top Languages" width="45%" />
 </p>
 
+<br/>
+
+<!-- Animated visitor / SEES membership badge -->
+<img src="https://komarev.com/ghpvc/?username=achmadfikrihdytllh&label=SEES%20Member%20Visits&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=40&section=header" width="100%" />
 
 ## 🧠 Advanced Backend & Architecture Expertise
 
@@ -58,7 +66,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 *   **Performance Tuning:** Optimizing relational query execution plans, indexing strategies, and handling relational table constraints cleanly.
 *   **State Integrity:** Managing transaction cycles and database migrations systematically to safeguard production data.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=40&section=header" width="100%" />
 
 ## 🛠️ Technology Stack (The Arsenal)
 
@@ -74,7 +82,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 ### 🧰 Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=40&section=header" width="100%" />
 
 ## 📁 Tartarus Exploration Logs: Featured Projects
 
@@ -93,7 +101,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 *   **System Overview:** Developed a web-based neighborhood administration platform designed to streamline citizen data management, track monthly community dues (iuran), and automate official letter requests for local residents.
 *   **Technical Implementations:** Designed an optimized relational database schema to securely map citizen demographics, engineered core server-side modules for efficient data filtering (CRUD operations), and implemented secure administrative authentication layers.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=40&section=header" width="100%" />
 
 ## 📈 Activity Metrics & Contribution Tracker
 
@@ -103,7 +111,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=40&section=header" width="100%" />
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -114,7 +122,16 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 <br/><br/>
 
+<!-- Second typing line, footer style closing quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1500&color=8892B0&center=true&vCenter=true&width=550&lines=I+am+thou%2C+thou+art+I...;See+you+next+full+moon." alt="Closing Typing SVG" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-fikri-hidayatullah-380197250/) [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fikuri.olnyv/) [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00f0ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-p3r-fikuri.vercel.app/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=120&section=footer&fontColor=00f0ff" width="100%" />
 
 ```text
 Made with discipline, strict backend logic, and deep passion for scalable system engineering.
