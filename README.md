@@ -16,7 +16,7 @@
 
 ## 🌌 About Me
 
-I am a Fresh Graduate in **Information Technology** from **Universitas Brawijaya** (Class of 2022). As a dedicated Backend Developer, I specialize in building scalable architecture, engineering robust RESTful APIs, and managing secure data streams hidden away behind the user interface. 
+I am a Fresh Graduate in **Information Technology** from **Universitas Brawijaya** (Class of 2022). As a dedicated Backend Developer, I specialize in building scalable architecture, engineering robust RESTful APIs, and managing secure data streams hidden away behind the user interface.
 
 Like navigating the floors of Tartarus, I look at complex monolithic or microservice environments as puzzles that demand analytical precision, structured optimization, and deep tactical debugging.
 
@@ -34,12 +34,12 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 ### 📊 Detailed GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=achmadfikrihdytllh&show_icons=true&theme=tokyonight&color_title=00f0ff&icon_color=00f0ff&hide_border=true&title_color=00f0ff&bg_color=0a192f" alt="Fikri's GitHub Stats" width="80%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=achmadfikrihdytllh&show_icons=true&theme=tokyonight&color_title=00f0ff&icon_color=00f0ff&hide_border=true&title_color=00f0ff&bg_color=0a192f" alt="Fikri's GitHub Stats" width="80%" />
 
 <br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadfikrihdytllh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00f0ff" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=achmadfikrihdytllh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00f0ff" alt="Top Languages" width="45%" />
 </p>
 
 </div>
@@ -104,7 +104,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=achmadfikrihdytllh&theme=tokyonight&fire=00f0ff&ring=0f4c81&hide_border=true&background=0a192f&sideLabels=00f0ff" alt="GitHub Streak Tracker" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=achmadfikrihdytllh&theme=tokyonight&fire=00f0ff&ring=0f4c81&hide_border=true&background=0a192f&sideLabels=00f0ff" alt="GitHub Streak Tracker" width="80%" />
 
 </div>
 
@@ -123,3 +123,4 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 ```text
 Made with discipline, strict backend logic, and deep passion for scalable system engineering.
+```
