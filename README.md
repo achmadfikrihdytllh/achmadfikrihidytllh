@@ -117,6 +117,15 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 ## 📁 Tartarus Exploration Logs: Featured Projects
 
+<div align="center">
+
+<!-- Tartarus Exploration GIF -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c3YncybGMwaW9pZWZpeHhkcndzb2s1NmJ1Z3I0dWhyNG45YzhtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqxSAbjbS5DOP3umEs/giphy.gif" width="60%" alt="Tartarus Exploration Animation" />
+
+</div>
+
+<br/>
+
 ### 🌐 01. Profile+ (HRIS Attendance System Backend)
 *   **Role & Core Stack:** Lead Backend Engineer | AdonisJS, PostgreSQL
 *   **System Overview:** Engineered a highly secure and automated HRIS attendance ecosystem designed to process corporate workforce logs cleanly.
